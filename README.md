@@ -16,6 +16,18 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 02 | [故宮建築極簡海報 Forbidden City Minimalist Poster](examples/02-forbidden-city-poster/) | ![02](examples/02-forbidden-city-poster/image.png) | 極簡海報、建築版式 / Minimalist poster |
 | 03 | [復古旗袍數碼相機人像 Vintage Qipao Portrait](examples/03-vintage-qipao-portrait/) | ![03](examples/03-vintage-qipao-portrait/image.png) | 寫實人像、閃光懷舊 / Photorealistic, flash nostalgia |
 | 04 | [絲綢飄帶新中式插畫 Silk Ribbon Illustration（模板型）](examples/04-silk-ribbon-illustration/) | ![04](examples/04-silk-ribbon-illustration/image.png) | 新中式插畫、模板提示詞 / New-Chinese illustration, template prompt |
+| 05 | [復古敞篷車上的女友 POV · Girlfriend Sitting Beside Me in a Vintage Convertible POV](examples/05-girlfriend-vintage-convertible-pov/) | ![05](examples/05-girlfriend-vintage-convertible-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 06 | [與女友共泡溫泉 POV · Girlfriend Sharing a Hot Spring With Me POV](examples/06-girlfriend-hot-spring-pov/) | ![06](examples/06-girlfriend-hot-spring-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 07 | [女友傾身索吻 POV · Girlfriend Leaning In for a Slow Kiss POV](examples/07-girlfriend-slow-kiss-pov/) | ![07](examples/07-girlfriend-slow-kiss-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 08 | [女友面對面坐腿上 POV · Girlfriend Sitting on My Lap Facing Me POV](examples/08-girlfriend-on-lap-pov/) | ![08](examples/08-girlfriend-on-lap-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 09 | [煙花下與女友牽手 POV · Girlfriend Holding My Hand During Fireworks POV](examples/09-girlfriend-fireworks-hand-pov/) | ![09](examples/09-girlfriend-fireworks-hand-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 10 | [書店裡女友拉衣袖 POV · Girlfriend Tugging My Sleeve in a Bookstore Aisle POV](examples/10-girlfriend-bookstore-sleeve-pov/) | ![10](examples/10-girlfriend-bookstore-sleeve-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 11 | [電影夜女友靠肩入睡 POV · Girlfriend Falling Asleep on My Shoulder During Movie Night POV](examples/11-girlfriend-movie-night-shoulder-pov/) | ![11](examples/11-girlfriend-movie-night-shoulder-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 12 | [牽女友逛深夜小吃街 POV · Girlfriend Leading Me Through a Night Snack Street POV](examples/12-girlfriend-night-snack-street-pov/) | ![12](examples/12-girlfriend-night-snack-street-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 13 | [公園長椅上搶薯條的女友 POV · Girlfriend Stealing My Last French Fry POV on a Park Bench](examples/13-girlfriend-french-fry-park-bench-pov/) | ![13](examples/13-girlfriend-french-fry-park-bench-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
+| 14 | [政治諷刺雙格漫畫：椅子部門 · Political Comic Meme Not in the Chair Department](examples/14-political-comic-chair-department/) | ![14](examples/14-political-comic-chair-department/image.png) | 手繪報紙風雙格漫畫 / Hand-drawn newspaper-style two-panel comic |
+
+> 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
 
 ## 怎麼用 | How to Use
 
