@@ -26,6 +26,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 12 | [牽女友逛深夜小吃街 POV · Girlfriend Leading Me Through a Night Snack Street POV](examples/12-girlfriend-night-snack-street-pov/) | ![12](examples/12-girlfriend-night-snack-street-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
 | 13 | [公園長椅上搶薯條的女友 POV · Girlfriend Stealing My Last French Fry POV on a Park Bench](examples/13-girlfriend-french-fry-park-bench-pov/) | ![13](examples/13-girlfriend-french-fry-park-bench-pov/image.png) | 第一人稱浪漫視角、電影感寫實 / First-person romantic POV, cinematic photorealism |
 | 14 | [政治諷刺雙格漫畫：椅子部門 · Political Comic Meme Not in the Chair Department](examples/14-political-comic-chair-department/) | ![14](examples/14-political-comic-chair-department/image.png) | 手繪報紙風雙格漫畫 / Hand-drawn newspaper-style two-panel comic |
+| 15 | [萬聖節鬼屋嘉年華海報 · Halloween Haunted Carnival Poster](examples/15-halloween-haunted-carnival-poster/) | ![15](examples/15-halloween-haunted-carnival-poster/image.png) | 萬聖節嘉年華、商業海報 / Halloween carnival, commercial poster |
+| 16 | [奢華酒店週年慶典晚宴海報 · Luxury Hotel Anniversary Gala Poster](examples/16-luxury-hotel-anniversary-gala/) | ![16](examples/16-luxury-hotel-anniversary-gala/image.png) | 酒店慶典、紅毯電影感 / Hotel gala, cinematic red-carpet |
+| 17 | [美妝品牌 VIP 之夜海報 · Beauty Brand VIP Night Poster](examples/17-beauty-brand-vip-night/) | ![17](examples/17-beauty-brand-vip-night/image.png) | 美妝派對、金色主視覺 / Beauty party, golden key visual |
+| 18 | [咖啡店盛大開業海報 · Grand Opening Coffee Shop Poster](examples/18-grand-opening-coffee-shop/) | ![18](examples/18-grand-opening-coffee-shop/image.png) | 尺寸融合創意廣告 / Scale-fusion creative ad |
+| 19 | [奢華黑色星期五促銷海報 · Luxury Black Friday Sale Poster](examples/19-luxury-black-friday-sale/) | ![19](examples/19-luxury-black-friday-sale/image.png) | 黑金大促、奢華反差 / Black-gold sale, luxury contrast |
+| 20 | [哥特化裝舞會海報 · Gothic Masquerade Ball Poster](examples/20-gothic-masquerade-ball-poster/) | ![20](examples/20-gothic-masquerade-ball-poster/image.png) | 面具舞會、圖標融合奇觀 / Masquerade ball, icon-fusion spectacle |
+| 21 | [星空下古典音樂會海報 · Classical Music Under the Stars Poster](examples/21-classical-music-under-the/) | ![21](examples/21-classical-music-under-the/image.png) | 露天音樂會、星空燭光 / Open-air concert, starlit candles |
+| 22 | [午夜爵士屋頂派對海報 · Midnight Jazz Rooftop Party Poster](examples/22-midnight-jazz-rooftop-party/) | ![22](examples/22-midnight-jazz-rooftop-party/image.png) | 屋頂爵士、都會浪漫 / Rooftop jazz, urban romance |
+| 23 | [霓虹地下電子音樂節海報 · Neon Underground Techno Festival Poster](examples/23-neon-underground-techno-festival/) | ![23](examples/23-neon-underground-techno-festival/image.png) | 霓虹電音、地下隧道 / Neon techno, underground tunnel |
+| 24 | [柳橙汁廣告：為今天擠入更多色彩 · Orange Juice Ad Squeeze More Color Into Today](examples/24-orange-juice-ad-squeeze/) | ![24](examples/24-orange-juice-ad-squeeze/image.png) | 夏日商業攝影、果汁飛濺 / Summer commercial photo, juice splash |
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
 
