@@ -37,6 +37,17 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 23 | [霓虹地下電子音樂節海報 · Neon Underground Techno Festival Poster](examples/23-neon-underground-techno-festival/) | ![23](examples/23-neon-underground-techno-festival/image.png) | 霓虹電音、地下隧道 / Neon techno, underground tunnel |
 | 24 | [柳橙汁廣告：為今天擠入更多色彩 · Orange Juice Ad Squeeze More Color Into Today](examples/24-orange-juice-ad-squeeze/) | ![24](examples/24-orange-juice-ad-squeeze/image.png) | 夏日商業攝影、果汁飛濺 / Summer commercial photo, juice splash |
 
+| 25 | [通往後室的樓梯 · A Staircase Leading Into the Backrooms](examples/25-staircase-leading-backrooms/) | ![25](examples/25-staircase-leading-backrooms/image.png) | 後室樓梯、閾限恐怖 / Backrooms staircase, liminal horror |
+| 26 | [午夜被遺棄的室內泳池群 · Abandoned Indoor Poolrooms at Midnight](examples/26-abandoned-indoor-poolrooms-midnight/) | ![26](examples/26-abandoned-indoor-poolrooms-midnight/image.png) | 池室閾限、水面倒影 / Poolrooms liminal, water reflection |
+| 27 | [淹水的後室購物中心 · A Flooded Backrooms Shopping Mall](examples/27-flooded-backrooms-shopping-mall/) | ![27](examples/27-flooded-backrooms-shopping-mall/image.png) | 淹水商場、死寂商業空間 / Flooded mall, dead retail space |
+| 28 | [被遺忘的兒童遊樂迷宮 · A Forgotten Children's Play Maze](examples/28-forgotten-childrens-play-maze/) | ![28](examples/28-forgotten-childrens-play-maze/image.png) | 童年陰影、廢棄遊樂場 / Childhood shadows, abandoned playground |
+| 29 | [無盡的醫院候診室 · The Endless Hospital Waiting Room](examples/29-endless-hospital-waiting-room/) | ![29](examples/29-endless-hospital-waiting-room/image.png) | 醫療閾限、無盡排隊 / Medical liminal, endless queue |
+| 30 | [開往後室的最後一班地鐵 · The Last Subway Train to the Backrooms](examples/30-last-subway-train-backrooms/) | ![30](examples/30-last-subway-train-backrooms/image.png) | 午夜地鐵、都市傳說 / Midnight subway, urban legend |
+| 31 | [永不打烊的空蕩超市 · An Empty Supermarket That Never Closes](examples/31-empty-supermarket-never-closes/) | ![31](examples/31-empty-supermarket-never-closes/image.png) | 消費主義閾限、空蕩貨架 / Consumerism liminal, empty shelves |
+| 32 | [磨砂玻璃後的後室實體 · The Backrooms Entity Behind the Frosted Glass](examples/32-backrooms-entity-frosted-glass/) | ![32](examples/32-backrooms-entity-frosted-glass/image.png) | 實體剪影、磨砂玻璃 / Entity silhouette, frosted glass |
+| 33 | [1998 年 VHS 錄影帶中的後室 · 1998 VHS Footage of the Backrooms](examples/33-1998-vhs-footage-backrooms/) | ![33](examples/33-1998-vhs-footage-backrooms/image.png) | 偽紀錄片、VHS 噪點 / Found footage, VHS noise |
+| 34 | [外星皇帝驗證自己不是機器人梗圖 · Alien Emperor Asked to Verify He Is Not a Robot Meme](examples/34-alien-emperor-robot-meme/) | ![34](examples/34-alien-emperor-robot-meme/image.png) | AI 梗雙格漫畫、驗證碼 / AI meme two-panel comic, captcha |
+
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
 
 ## 怎麼用 | How to Use
