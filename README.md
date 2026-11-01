@@ -47,6 +47,17 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 32 | [磨砂玻璃後的後室實體 · The Backrooms Entity Behind the Frosted Glass](examples/32-backrooms-entity-frosted-glass/) | ![32](examples/32-backrooms-entity-frosted-glass/image.png) | 實體剪影、磨砂玻璃 / Entity silhouette, frosted glass |
 | 33 | [1998 年 VHS 錄影帶中的後室 · 1998 VHS Footage of the Backrooms](examples/33-1998-vhs-footage-backrooms/) | ![33](examples/33-1998-vhs-footage-backrooms/image.png) | 偽紀錄片、VHS 噪點 / Found footage, VHS noise |
 | 34 | [外星皇帝驗證自己不是機器人梗圖 · Alien Emperor Asked to Verify He Is Not a Robot Meme](examples/34-alien-emperor-robot-meme/) | ![34](examples/34-alien-emperor-robot-meme/image.png) | AI 梗雙格漫畫、驗證碼 / AI meme two-panel comic, captcha |
+| 35 | [太陽能露營燈產品海報 · Solar Camping Lantern Product Poster](examples/35-solar-camping-lantern-product/) | ![35](examples/35-solar-camping-lantern-product/image.png) | 太陽能露營燈、黃昏營地 / Solar camping lantern, dusk campsite |
+| 36 | [折疊登山杖戶外海報 · Foldable Trekking Pole Outdoor Poster](examples/36-foldable-trekking-pole-outdoor/) | ![36](examples/36-foldable-trekking-pole-outdoor/image.png) | 折疊登山杖、雪山徒步 / Foldable trekking pole, snowy hike |
+| 37 | [車頂帳篷冒險海報 · Car Roof Tent Adventure Poster](examples/37-car-roof-tent-adventure/) | ![37](examples/37-car-roof-tent-adventure/image.png) | 車頂帳篷、日落露營 / Rooftop tent, sunset camp |
+| 38 | [設計師瑜伽墊生活風格海報 · Designer Yoga Mat Lifestyle Poster](examples/38-designer-yoga-mat-lifestyle/) | ![38](examples/38-designer-yoga-mat-lifestyle/image.png) | 設計師瑜伽墊、海景瑜伽 / Designer yoga mat, seaside yoga |
+| 39 | [奢華旅行收納套裝海報 · Luxury Travel Organizer Set Poster](examples/39-luxury-travel-organizer-set/) | ![39](examples/39-luxury-travel-organizer-set/image.png) | 旅行收納套裝、海岸度假 / Travel organizer set, coastal holiday |
+| 40 | [機能羽絨夾克冬季時尚海報 · Technical Puffer Jacket Winter Fashion Poster](examples/40-technical-puffer-jacket-winter/) | ![40](examples/40-technical-puffer-jacket-winter/image.png) | 機能羽絨夾克、雪山時尚 / Technical puffer jacket, snowy fashion |
+| 41 | [GPS 寵物追蹤項圈海報 · GPS Pet Tracker Collar Poster](examples/41-gps-pet-tracker-collar/) | ![41](examples/41-gps-pet-tracker-collar/image.png) | GPS 寵物追蹤項圈、實時定位 / GPS pet tracker, live location |
+| 42 | [智能寵物飲水機廣告海報 · Smart Pet Water Fountain Advertising Poster](examples/42-smart-pet-water-fountain/) | ![42](examples/42-smart-pet-water-fountain/image.png) | 智能寵物飲水機、貓狗同框 / Smart pet fountain, cat & dog |
+| 43 | [自動餵貓器智能寵物海報 · Automatic Cat Feeder Smart Pet Poster](examples/43-automatic-cat-feeder-smart/) | ![43](examples/43-automatic-cat-feeder-smart/image.png) | 自動餵貓器、心形貓糧 / Automatic cat feeder, heart kibble |
+| 44 | [便攜掛脖風扇夏季產品海報 · Portable Neck Fan Summer Product Poster](examples/44-portable-neck-fan-summer/) | ![44](examples/44-portable-neck-fan-summer/image.png) | 便攜掛脖風扇、夏日清涼 / Portable neck fan, summer cool |
+
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
 
