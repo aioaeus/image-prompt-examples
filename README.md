@@ -57,6 +57,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 42 | [智能寵物飲水機廣告海報 · Smart Pet Water Fountain Advertising Poster](examples/42-smart-pet-water-fountain/) | ![42](examples/42-smart-pet-water-fountain/image.png) | 智能寵物飲水機、貓狗同框 / Smart pet fountain, cat & dog |
 | 43 | [自動餵貓器智能寵物海報 · Automatic Cat Feeder Smart Pet Poster](examples/43-automatic-cat-feeder-smart/) | ![43](examples/43-automatic-cat-feeder-smart/image.png) | 自動餵貓器、心形貓糧 / Automatic cat feeder, heart kibble |
 | 44 | [便攜掛脖風扇夏季產品海報 · Portable Neck Fan Summer Product Poster](examples/44-portable-neck-fan-summer/) | ![44](examples/44-portable-neck-fan-summer/image.png) | 便攜掛脖風扇、夏日清涼 / Portable neck fan, summer cool |
+| 45 | [微型星球吸塵記 · Vacuuming a Tiny Planet](examples/45-vacuuming-a-tiny-planet/) | ![45](examples/45-vacuuming-a-tiny-planet/image.png) | 電影超現實、尺度碰撞 / Cinematic surrealism, scale collision |
+| 46 | [紮根的觀眾把夢送上銀幕 · Rooted Viewers Send Dreams to the Screen](examples/46-rooted-viewers-send-dreams/) | ![46](examples/46-rooted-viewers-send-dreams/image.png) | 電影超現實、夢境寓言 / Cinematic surrealism, dream allegory |
+| 47 | [最後的擁抱：消逝的投影 · Last Embrace Fading Projection](examples/47-last-embrace-fading-projection/) | ![47](examples/47-last-embrace-fading-projection/image.png) | 電影情感、科幻寓言 / Cinematic emotion, sci-fi allegory |
+| 48 | [狗遛人：身份顛倒 · A Dog Walks Its Human](examples/48-a-dog-walks-its/) | ![48](examples/48-a-dog-walks-its/image.png) | 身份反轉、社會諷刺 / Role reversal, social satire |
+| 49 | [微型士兵與落下的軍服 · Miniature Soldiers and Falling Uniforms](examples/49-miniature-soldiers-and-falling/) | ![49](examples/49-miniature-soldiers-and-falling/image.png) | 戰爭寓言、尺度反差 / War allegory, scale contrast |
+| 50 | [囚犯入畫，農夫出牢 · Prisoner Enters Painting Farmer Emerges](examples/50-prisoner-enters-painting-farmer/) | ![50](examples/50-prisoner-enters-painting-farmer/image.png) | 魔幻現實、畫框穿越 / Magical realism, frame crossing |
+| 51 | [金色液體與消逝的粉絲 · Golden Tube Fading Fan](examples/51-golden-tube-fading-fan/) | ![51](examples/51-golden-tube-fading-fan/image.png) | 名利寓言、社會諷刺 / Fame allegory, social satire |
+| 52 | [鏡中的飢餓倒影 · Untouched Dinner Hungry Mirror Reflection](examples/52-untouched-dinner-hungry-mirror/) | ![52](examples/52-untouched-dinner-hungry-mirror/image.png) | 鏡像寓言、貧富對照 / Mirror allegory, wealth contrast |
+| 53 | [他留下的那條領帶 · The Tie He Left Behind](examples/53-the-tie-he-left/) | ![53](examples/53-the-tie-he-left/image.png) | 溫情科幻、家庭敘事 / Tender sci-fi, family narrative |
+| 54 | [外星家庭參觀人類辦公室展覽 · Alien Family Photographs a Human Office Exhibit](examples/54-alien-family-photographs-a/) | ![54](examples/54-alien-family-photographs-a/image.png) | 視角反轉、科幻幽默 / Perspective flip, sci-fi humor |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
