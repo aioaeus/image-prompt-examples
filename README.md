@@ -67,6 +67,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 52 | [鏡中的飢餓倒影 · Untouched Dinner Hungry Mirror Reflection](examples/52-untouched-dinner-hungry-mirror/) | ![52](examples/52-untouched-dinner-hungry-mirror/image.png) | 鏡像寓言、貧富對照 / Mirror allegory, wealth contrast |
 | 53 | [他留下的那條領帶 · The Tie He Left Behind](examples/53-the-tie-he-left/) | ![53](examples/53-the-tie-he-left/image.png) | 溫情科幻、家庭敘事 / Tender sci-fi, family narrative |
 | 54 | [外星家庭參觀人類辦公室展覽 · Alien Family Photographs a Human Office Exhibit](examples/54-alien-family-photographs-a/) | ![54](examples/54-alien-family-photographs-a/image.png) | 視角反轉、科幻幽默 / Perspective flip, sci-fi humor |
+| 55 | [聖誕倒數月曆廣告海報 · Advent Calendar Poster](examples/55-advent-calendar-poster/) | ![55](examples/55-advent-calendar-poster/image.png) | 聖誕廣告、產品海報 / Christmas ad, product poster |
+| 56 | [電熱毯廣告海報 · Heated Blanket Poster](examples/56-heated-blanket-poster/) | ![56](examples/56-heated-blanket-poster/image.png) | 冬季家電、產品海報 / Winter appliance, product poster |
+| 57 | [淹水公寓上的香檳 · Champagne Above the Flooded Apartments](examples/57-champagne-above-the-flooded/) | ![57](examples/57-champagne-above-the-flooded/image.png) | 階級諷刺、電影超現實 / Class satire, cinematic surrealism |
+| 58 | [瓶裝陽光與借來的時間 · Bottled Sunlight and Borrowed Time](examples/58-bottled-sunlight-and-borrowed/) | ![58](examples/58-bottled-sunlight-and-borrowed/image.png) | 時間寓言、電影超現實 / Time allegory, cinematic surrealism |
+| 59 | [機械掌聲與門外的帳單 · Mechanical Applause and Bills Outside](examples/59-mechanical-applause-and-bills/) | ![59](examples/59-mechanical-applause-and-bills/image.png) | 政治諷刺、電影超現實 / Political satire, cinematic surrealism |
+| 60 | [機器人布景後的燭光晚餐 · Candlelit Dinner Behind a Robot Held Garden](examples/60-candlelit-dinner-behind-a/) | ![60](examples/60-candlelit-dinner-behind-a/image.png) | 戰爭浪漫、電影超現實 / Wartime romance, cinematic surrealism |
+| 61 | [打卡鐘與釀造的利潤 · Feeding the Clock Brewing Profit](examples/61-feeding-the-clock-brewing/) | ![61](examples/61-feeding-the-clock-brewing/image.png) | 打工寓言、電影超現實 / Worker allegory, cinematic surrealism |
+| 62 | [被囚禁的太陽與凍結的家庭 · Captive Sun and Frozen Families](examples/62-captive-sun-and-frozen/) | ![62](examples/62-captive-sun-and-frozen/image.png) | 貧富對照、電影超現實 / Wealth contrast, cinematic surrealism |
+| 63 | [租戶的電線點亮房東的吊燈 · Tenants Wires Power the Landlords Chandelier](examples/63-tenants-wires-power-the/) | ![63](examples/63-tenants-wires-power-the/image.png) | 住房諷刺、電影超現實 / Housing satire, cinematic surrealism |
+| 64 | [美白牙貼廣告海報 · Teeth Whitening Strips Poster](examples/64-teeth-whitening-strips-poster/) | ![64](examples/64-teeth-whitening-strips-poster/image.png) | 美妝個護、產品海報 / Beauty care, product poster |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
