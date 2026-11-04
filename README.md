@@ -77,6 +77,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 62 | [被囚禁的太陽與凍結的家庭 · Captive Sun and Frozen Families](examples/62-captive-sun-and-frozen/) | ![62](examples/62-captive-sun-and-frozen/image.png) | 貧富對照、電影超現實 / Wealth contrast, cinematic surrealism |
 | 63 | [租戶的電線點亮房東的吊燈 · Tenants Wires Power the Landlords Chandelier](examples/63-tenants-wires-power-the/) | ![63](examples/63-tenants-wires-power-the/image.png) | 住房諷刺、電影超現實 / Housing satire, cinematic surrealism |
 | 64 | [美白牙貼廣告海報 · Teeth Whitening Strips Poster](examples/64-teeth-whitening-strips-poster/) | ![64](examples/64-teeth-whitening-strips-poster/image.png) | 美妝個護、產品海報 / Beauty care, product poster |
+| 65 | [黃銅倒影中的握手 · Handshake with a Brass Reflection](examples/65-handshake-with-a-brass/) | ![65](examples/65-handshake-with-a-brass/image.png) | 懸疑電影、機械驚悚 / Suspense cinema, mechanical thriller |
+| 66 | [明天的紙條提早送達 · Tomorrows Note Arrives Early](examples/66-tomorrows-note-arrives-early/) | ![66](examples/66-tomorrows-note-arrives-early/image.png) | 懸疑電影、時間悖論 / Suspense cinema, time paradox |
+| 67 | [不被需要的奇蹟 · The Unwanted Miracle](examples/67-the-unwanted-miracle/) | ![67](examples/67-the-unwanted-miracle/image.png) | 街頭魔幻寫實 / Street magic realism |
+| 68 | [夢魘洗衣店 · The Nightmare Laundry](examples/68-the-nightmare-laundry/) | ![68](examples/68-the-nightmare-laundry/image.png) | 夢魘奇幻、電影超現實 / Nightmare fantasy, cinematic surrealism |
+| 69 | [慷慨的稻草人 · The Generous Scarecrow](examples/69-the-generous-scarecrow/) | ![69](examples/69-the-generous-scarecrow/image.png) | 田園魔幻寫實 / Pastoral magic realism |
+| 70 | [收集雪的人 · The Snow Collector](examples/70-the-snow-collector/) | ![70](examples/70-the-snow-collector/image.png) | 冬日寓言、電影超現實 / Winter fable, cinematic surrealism |
+| 71 | [婚禮見證人 · The Wedding Witness](examples/71-the-wedding-witness/) | ![71](examples/71-the-wedding-witness/image.png) | 婚禮驚悚、身份錯位 / Wedding thriller, identity twist |
+| 72 | [緊急出口 · The Emergency Exit](examples/72-the-emergency-exit/) | ![72](examples/72-the-emergency-exit/image.png) | 劇院災難、空間悖論 / Theater disaster, spatial paradox |
+| 73 | [滅絕博物館 · Museum of Extinction](examples/73-museum-of-extinction/) | ![73](examples/73-museum-of-extinction/image.png) | 滅絕寓言、博物館奇觀 / Extinction fable, museum spectacle |
+| 74 | [聽話的火山 · The Obedient Volcano](examples/74-the-obedient-volcano/) | ![74](examples/74-the-obedient-volcano/image.png) | 荒誕喜劇、災難反轉 / Absurdist comedy, disaster reversal |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
