@@ -87,6 +87,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 72 | [緊急出口 · The Emergency Exit](examples/72-the-emergency-exit/) | ![72](examples/72-the-emergency-exit/image.png) | 劇院災難、空間悖論 / Theater disaster, spatial paradox |
 | 73 | [滅絕博物館 · Museum of Extinction](examples/73-museum-of-extinction/) | ![73](examples/73-museum-of-extinction/image.png) | 滅絕寓言、博物館奇觀 / Extinction fable, museum spectacle |
 | 74 | [聽話的火山 · The Obedient Volcano](examples/74-the-obedient-volcano/) | ![74](examples/74-the-obedient-volcano/image.png) | 荒誕喜劇、災難反轉 / Absurdist comedy, disaster reversal |
+| 75 | [地獄滅火專家諷刺漫畫 · Lindsey Graham Hell Extinguisher Experts Comic](examples/75-lindsey-graham-hell-extinguisher/) | ![75](examples/75-lindsey-graham-hell-extinguisher/image.png) | 雙格政治諷刺漫畫、對白反轉 / Two-panel political satire comic, dialogue punchline |
+| 76 | [辦公桌前的充氣西裝「感覺棒極了」 · Im Feeling Tremendous Inflated Suit at the Desk](examples/76-im-feeling-tremendous-inflated/) | ![76](examples/76-im-feeling-tremendous-inflated/image.png) | 梗圖字面化、概念變形 / Meme literalized, conceptual mutation |
+| 77 | [跛腳鴨的大步 · Trumps Lame Duck Stride](examples/77-trumps-lame-duck-stride/) | ![77](examples/77-trumps-lame-duck-stride/image.png) | 政治梗圖、字面視覺變化 / Political meme, literal visual change |
+| 78 | [義大利三色石鑲嵌軍人節海報 · Italian Tricolor Stone Mosaic Tribute](examples/78-italian-tricolor-stone-mosaic/) | ![78](examples/78-italian-tricolor-stone-mosaic/image.png) | 節日海報、石鑲嵌工藝 / Holiday poster, stone mosaic craft |
+| 79 | [黃昏巴拿馬城上空的巨型國旗 · Panama Flag over Panama City at Dusk](examples/79-panama-flag-over-panama/) | ![79](examples/79-panama-flag-over-panama/image.png) | 電影感節慶海報、城市天際線 / Cinematic festive poster, city skyline |
+| 80 | [紅場團結日光之盛典 · Luminous Unity Day at Red Square](examples/80-luminous-unity-day-at/) | ![80](examples/80-luminous-unity-day-at/image.png) | 節日海報、光帶奇觀 / Holiday poster, light-ribbon spectacle |
+| 81 | [機器人與狗的影子 · A Robot with a Dogs Shadow](examples/81-a-robot-with-a/) | ![81](examples/81-a-robot-with-a/image.png) | 太空站日常、地球記憶反差 / Station life, Earth-memory contrast |
+| 82 | [棲息艙窗外的火星沙漏 · Martian Hourglass Beyond the Habitat Window](examples/82-martian-hourglass-beyond-the/) | ![82](examples/82-martian-hourglass-beyond-the/image.png) | 火星塵暴、時間隱喻 / Martian dust storm, time metaphor |
+| 83 | [鏡頭看到同樣的眼睛 · The Camera Sees the Same Eyes](examples/83-the-camera-sees-the/) | ![83](examples/83-the-camera-sees-the/image.png) | 心理驚悚、視覺符號 / Psychological thriller, visual symbol |
+| 84 | [繞著鐵字閱讀 · Reading Around the Iron Words](examples/84-reading-around-the-iron/) | ![84](examples/84-reading-around-the-iron/image.png) | 超現實主義、材質變形 / Surrealism, material transformation |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
