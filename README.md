@@ -97,6 +97,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 82 | [棲息艙窗外的火星沙漏 · Martian Hourglass Beyond the Habitat Window](examples/82-martian-hourglass-beyond-the/) | ![82](examples/82-martian-hourglass-beyond-the/image.png) | 火星塵暴、時間隱喻 / Martian dust storm, time metaphor |
 | 83 | [鏡頭看到同樣的眼睛 · The Camera Sees the Same Eyes](examples/83-the-camera-sees-the/) | ![83](examples/83-the-camera-sees-the/image.png) | 心理驚悚、視覺符號 / Psychological thriller, visual symbol |
 | 84 | [繞著鐵字閱讀 · Reading Around the Iron Words](examples/84-reading-around-the-iron/) | ![84](examples/84-reading-around-the-iron/image.png) | 超現實主義、材質變形 / Surrealism, material transformation |
+| 85 | [金色疊戴項鍊廣告海報 · Elevate Every Moment Gold Layering Necklace Poster](examples/85-elevate-every-moment-gold/) | ![85](examples/85-elevate-every-moment-gold/image.png) | 高端珠寶廣告、流動金屬 / Luxury jewellery ad, liquid metal |
+| 86 | [充電頭燈探險海報 · Navigate the Unknown Rechargeable Headlamp Poster](examples/86-navigate-the-unknown-rechargeable/) | ![86](examples/86-navigate-the-unknown-rechargeable/image.png) | 戶外探險、夜間光束 / Outdoor adventure, night beam |
+| 87 | [升降桌廣告海報 · Stand Above the Ordinary Standing Desk Poster](examples/87-stand-above-the-ordinary/) | ![87](examples/87-stand-above-the-ordinary/image.png) | 未來辦公、升降桌 / Futuristic office, standing desk |
+| 88 | [互動學習書廣告海報 · Unlock the Universe of Knowledge Learning Book Poster](examples/88-unlock-the-universe-of/) | ![88](examples/88-unlock-the-universe-of/image.png) | 奇幻教育、互動書籍 / Fantasy education, interactive book |
+| 89 | [Insight 品牌標誌 · Insight See the Pattern Logo](examples/89-insight-see-the-pattern/) | ![89](examples/89-insight-see-the-pattern/image.png) | 極簡標誌、品牌識別 / Minimal logo, brand identity |
+| 90 | [Sam Altman 記憶體專家漫畫 · Sam Altman RAM Experts Comic](examples/90-sam-altman-ram-experts/) | ![90](examples/90-sam-altman-ram-experts/image.png) | 雙格漫畫、時事梗圖 / Two-panel comic, topical meme |
+| 91 | [三頭電動剃鬚刀廣告海報 · A Fresh Look at Three Head Electric Razor Poster](examples/91-a-fresh-look-at-three/) | ![91](examples/91-a-fresh-look-at-three/image.png) | 產品海報、小家電 / Product poster, small appliance |
+| 92 | [無線旋轉清潔刷廣告海報 · A Fresh Look at Cordless Spin Scrubber Poster](examples/92-a-fresh-look-at-cordless/) | ![92](examples/92-a-fresh-look-at-cordless/image.png) | 產品海報、家居清潔 / Product poster, home cleaning |
+| 93 | [痘痘貼廣告海報 · A Fresh Look at Acne Pimple Patch Poster](examples/93-a-fresh-look-at-acne/) | ![93](examples/93-a-fresh-look-at-acne/image.png) | 產品海報、護膚 / Product poster, skincare |
+| 94 | [世界海嘯意識日海報 · Feel the Surge World Tsunami Awareness Day Poster](examples/94-feel-the-surge-world/) | ![94](examples/94-feel-the-surge-world/image.png) | 公益海報、防災宣導 / Public-service poster, disaster awareness |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
