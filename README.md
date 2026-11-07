@@ -107,6 +107,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 92 | [無線旋轉清潔刷廣告海報 · A Fresh Look at Cordless Spin Scrubber Poster](examples/92-a-fresh-look-at-cordless/) | ![92](examples/92-a-fresh-look-at-cordless/image.png) | 產品海報、家居清潔 / Product poster, home cleaning |
 | 93 | [痘痘貼廣告海報 · A Fresh Look at Acne Pimple Patch Poster](examples/93-a-fresh-look-at-acne/) | ![93](examples/93-a-fresh-look-at-acne/image.png) | 產品海報、護膚 / Product poster, skincare |
 | 94 | [世界海嘯意識日海報 · Feel the Surge World Tsunami Awareness Day Poster](examples/94-feel-the-surge-world/) | ![94](examples/94-feel-the-surge-world/image.png) | 公益海報、防災宣導 / Public-service poster, disaster awareness |
+| 95 | [冬日暖光中的加絨打底褲 · Fleece Lined Tights in Winter Light](examples/95-fleece-lined-tights-in/) | ![95](examples/95-fleece-lined-tights-in/image.png) | 產品海報、冬季服飾 / Product poster, winter apparel |
+| 96 | [霓虹城市中的靈活手機三腳架 · Flexible Phone Tripod in Neon City](examples/96-flexible-phone-tripod-in/) | ![96](examples/96-flexible-phone-tripod-in/image.png) | 產品海報、賽博龐克 / Product poster, cyberpunk |
+| 97 | [一塵不染硬木地板上的智能掃地機器人 · Sleek Robot Vacuum Spotless Hardwood](examples/97-sleek-robot-vacuum-spotless/) | ![97](examples/97-sleek-robot-vacuum-spotless/image.png) | 產品海報、家居清潔 / Product poster, home cleaning |
+| 98 | [陽光黃解壓捏捏球 · Sunny Yellow Squishy Stress Ball](examples/98-sunny-yellow-squishy-stress/) | ![98](examples/98-sunny-yellow-squishy-stress/image.png) | 產品海報、3D 渲染玩具 / Product poster, 3D-rendered toy |
+| 99 | [日出時分的越野跑鞋 · Rugged Trail Shoes at Sunrise](examples/99-rugged-trail-shoes-at/) | ![99](examples/99-rugged-trail-shoes-at/image.png) | 產品海報、戶外運動 / Product poster, outdoor sports |
+| 100 | [夢幻雲端上的毛絨兔子 · Cuddly Bunny Plush on Dreamy Clouds](examples/100-cuddly-bunny-plush-on/) | ![100](examples/100-cuddly-bunny-plush-on/image.png) | 產品海報、可愛治癒 / Product poster, cute and comforting |
+| 101 | [魔法森林中的落地投影儀支架 · Rooted Projector Stand in Enchanted Forest](examples/101-rooted-projector-stand-in/) | ![101](examples/101-rooted-projector-stand-in/image.png) | 產品海報、戶外投影 / Product poster, outdoor projection |
+| 102 | [城市霓虹蓮花耳機 · Neon Lotus Earbuds in the City](examples/102-neon-lotus-earbuds-in/) | ![102](examples/102-neon-lotus-earbuds-in/image.png) | 產品海報、音頻 / Product poster, audio |
+| 103 | [銀色 iPhone 17 手機殼 · Sleek Silver iPhone 17 Case](examples/103-sleek-silver-iphone-17/) | ![103](examples/103-sleek-silver-iphone-17/image.png) | 產品海報、手機配件 / Product poster, phone accessories |
+| 104 | [吹牛網民的肖像活了過來 · A Boastful Netizens Portrait Comes Alive](examples/104-a-boastful-netizens-portrait/) | ![104](examples/104-a-boastful-netizens-portrait/image.png) | 雙格漫畫、梗圖 / Two-panel comic, meme |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
