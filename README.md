@@ -117,6 +117,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 102 | [城市霓虹蓮花耳機 · Neon Lotus Earbuds in the City](examples/102-neon-lotus-earbuds-in/) | ![102](examples/102-neon-lotus-earbuds-in/image.png) | 產品海報、音頻 / Product poster, audio |
 | 103 | [銀色 iPhone 17 手機殼 · Sleek Silver iPhone 17 Case](examples/103-sleek-silver-iphone-17/) | ![103](examples/103-sleek-silver-iphone-17/image.png) | 產品海報、手機配件 / Product poster, phone accessories |
 | 104 | [吹牛網民的肖像活了過來 · A Boastful Netizens Portrait Comes Alive](examples/104-a-boastful-netizens-portrait/) | ![104](examples/104-a-boastful-netizens-portrait/image.png) | 雙格漫畫、梗圖 / Two-panel comic, meme |
+| 105 | [三隻跳舞小貓循環動畫精靈圖 · Three Dancing Kittens Loop Animation Sprite Sheet](examples/105-three-dancing-kittens-loop/) | ![105](examples/105-three-dancing-kittens-loop/image.png) | GIF 精靈圖、動物 / Looping GIF sprite sheet, animals |
+| 106 | [碗蓋頭狗狗滑手機循環動畫精靈圖 · Bowl Cut Dog Phone Loop Animation Sprite Sheet](examples/106-bowl-cut-dog-phone/) | ![106](examples/106-bowl-cut-dog-phone/image.png) | GIF 精靈圖、動物 / Looping GIF sprite sheet, animals |
+| 107 | [載入中的貓咪循環動畫精靈圖 · Loading Cat Loop Animation Sprite Sheet](examples/107-loading-cat-loop-animation/) | ![107](examples/107-loading-cat-loop-animation/image.png) | GIF 精靈圖、動物 / Looping GIF sprite sheet, animals |
+| 108 | [跳舞大猩猩循環動畫精靈圖 · Dancing Gorilla Loop Animation Sprite Sheet](examples/108-dancing-gorilla-loop-animation/) | ![108](examples/108-dancing-gorilla-loop-animation/image.png) | GIF 精靈圖、動物 / Looping GIF sprite sheet, animals |
+| 109 | [招財白貓新年循環動畫精靈圖 · Lucky White Cat Beckoning Chinese New Year Loop Animation Sprite Sheet](examples/109-lucky-white-cat-beckoning/) | ![109](examples/109-lucky-white-cat-beckoning/image.png) | GIF 精靈圖、新年 / Looping GIF sprite sheet, Chinese New Year |
+| 110 | [灰貓紅包新年循環動畫精靈圖 · Grey Cat Red Envelope Chinese New Year Loop Animation Sprite Sheet](examples/110-grey-cat-red-envelope/) | ![110](examples/110-grey-cat-red-envelope/image.png) | GIF 精靈圖、新年 / Looping GIF sprite sheet, Chinese New Year |
+| 111 | [橘貓乾飯循環動畫精靈圖 · Orange Cat Mealtime Loop Animation Sprite Sheet](examples/111-orange-cat-mealtime-loop/) | ![111](examples/111-orange-cat-mealtime-loop/image.png) | GIF 精靈圖、動物 / Looping GIF sprite sheet, animals |
+| 112 | [薑黃貓假折扣循環動畫精靈圖 · Ginger Cat Fake Discount Loop Animation Sprite Sheet](examples/112-ginger-cat-fake-discount/) | ![112](examples/112-ginger-cat-fake-discount/image.png) | GIF 精靈圖、購物梗 / Looping GIF sprite sheet, shopping meme |
+| 113 | [倉鼠股災循環動畫精靈圖 · Hamster Stock Crash Loop Animation Sprite Sheet](examples/113-hamster-stock-crash-loop/) | ![113](examples/113-hamster-stock-crash-loop/image.png) | GIF 精靈圖、股市梗 / Looping GIF sprite sheet, stock-market meme |
+| 114 | [屋頂便當遇上三明治魔法 · Rooftop Bento Meets Sandwich Magic](examples/114-rooftop-bento-meets-sandwich/) | ![114](examples/114-rooftop-bento-meets-sandwich/image.png) | 雙格漫畫、梗圖 / Two-panel comic, meme |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
