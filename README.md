@@ -127,6 +127,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 112 | [薑黃貓假折扣循環動畫精靈圖 · Ginger Cat Fake Discount Loop Animation Sprite Sheet](examples/112-ginger-cat-fake-discount/) | ![112](examples/112-ginger-cat-fake-discount/image.png) | GIF 精靈圖、購物梗 / Looping GIF sprite sheet, shopping meme |
 | 113 | [倉鼠股災循環動畫精靈圖 · Hamster Stock Crash Loop Animation Sprite Sheet](examples/113-hamster-stock-crash-loop/) | ![113](examples/113-hamster-stock-crash-loop/image.png) | GIF 精靈圖、股市梗 / Looping GIF sprite sheet, stock-market meme |
 | 114 | [屋頂便當遇上三明治魔法 · Rooftop Bento Meets Sandwich Magic](examples/114-rooftop-bento-meets-sandwich/) | ![114](examples/114-rooftop-bento-meets-sandwich/image.png) | 雙格漫畫、梗圖 / Two-panel comic, meme |
+| 115 | [饒舌歌手反擊了 · When the Rapper Bites Back](examples/115-when-the-rapper-bites/) | ![115](examples/115-when-the-rapper-bites/image.png) | 雙格漫畫、梗圖 / Two-panel comic, meme |
+| 116 | [釋放內在稜鏡：穿戴甲海報 · Unleash Your Inner Prism Press On Nails Poster](examples/116-unleash-your-inner-prism/) | ![116](examples/116-unleash-your-inner-prism/image.png) | 電商海報、美甲 / E-commerce poster, press-on nails |
+| 117 | [由內煥活：PDRN 精華海報 · Revitalize from Within PDRN Serum Poster](examples/117-revitalize-from-within-pdrn/) | ![117](examples/117-revitalize-from-within-pdrn/image.png) | 電商海報、護膚精華 / E-commerce poster, skincare serum |
+| 118 | [會飛的電力：磁吸行動電源海報 · Power That Flies Magnetic Power Bank Poster](examples/118-power-that-flies-magnetic/) | ![118](examples/118-power-that-flies-magnetic/image.png) | 電商海報、磁吸行動電源 / E-commerce poster, magnetic power bank |
+| 119 | [踏入未來：Meta Quest 3S 海報 · Step Into the Future Meta Quest 3S Poster](examples/119-step-into-the-future/) | ![119](examples/119-step-into-the-future/image.png) | 電商海報、VR 頭顯 / E-commerce poster, VR headset |
+| 120 | [提升專注力：Globbles 解壓玩具海報 · Elevate Your Focus Globbles Fidget Toy Poster](examples/120-elevate-your-focus-globbles/) | ![120](examples/120-elevate-your-focus-globbles/image.png) | 電商海報、解壓玩具 / E-commerce poster, fidget toy |
+| 121 | [節日燈光迎回家：聖誕門簾海報 · Welcome Home in Holiday Light Christmas Door Cover Poster](examples/121-welcome-home-in-holiday/) | ![121](examples/121-welcome-home-in-holiday/image.png) | 電商海報、聖誕門簾 / E-commerce poster, Christmas door cover |
+| 122 | [緋紅火星軌道標誌 · Crimson Mars Orbit Logo](examples/122-crimson-mars-orbit-logo/) | ![122](examples/122-crimson-mars-orbit-logo/image.png) | 標誌設計、太空 / Logo design, space |
+| 123 | [心碎鴿子看著股市崩盤動畫精靈圖 · Heartbroken Pigeon Watching a Stock Crash Animation Sprite Sheet](examples/123-heartbroken-pigeon-watching-a/) | ![123](examples/123-heartbroken-pigeon-watching-a/image.png) | GIF 精靈圖、股市梗 / Looping GIF sprite sheet, stock-market meme |
+| 124 | [踏入未來辦公：桌下跑步機海報 · Step Into the Future of Work Under Desk Treadmill Poster](examples/124-step-into-the-future-of/) | ![124](examples/124-step-into-the-future-of/image.png) | 電商海報、桌下跑步機 / E-commerce poster, under-desk treadmill |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
