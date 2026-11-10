@@ -137,6 +137,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 122 | [緋紅火星軌道標誌 · Crimson Mars Orbit Logo](examples/122-crimson-mars-orbit-logo/) | ![122](examples/122-crimson-mars-orbit-logo/image.png) | 標誌設計、太空 / Logo design, space |
 | 123 | [心碎鴿子看著股市崩盤動畫精靈圖 · Heartbroken Pigeon Watching a Stock Crash Animation Sprite Sheet](examples/123-heartbroken-pigeon-watching-a/) | ![123](examples/123-heartbroken-pigeon-watching-a/image.png) | GIF 精靈圖、股市梗 / Looping GIF sprite sheet, stock-market meme |
 | 124 | [踏入未來辦公：桌下跑步機海報 · Step Into the Future of Work Under Desk Treadmill Poster](examples/124-step-into-the-future-of/) | ![124](examples/124-step-into-the-future-of/image.png) | 電商海報、桌下跑步機 / E-commerce poster, under-desk treadmill |
+| 125 | [巴戎寺石面 · A Stone Face on Bayon Temple](examples/125-a-stone-face-on/) | ![125](examples/125-a-stone-face-on/image.png) | 吳哥文化、石雕 / Angkor culture, stone carving |
+| 126 | [晨光中的藏紅袍僧侶 · Buddhist Monks in Saffron Robes](examples/126-buddhist-monks-in-saffron/) | ![126](examples/126-buddhist-monks-in-saffron/image.png) | 吳哥文化、僧侶 / Angkor culture, monks |
+| 127 | [神魔共拉那伽巨蛇 · God and Demon Tugging a Naga Serpent at Angkor Thom](examples/127-god-and-demon-tugging/) | ![127](examples/127-god-and-demon-tugging/image.png) | 吳哥文化、神話 / Angkor culture, mythology |
+| 128 | [日出時眨眼的巴戎石面 · Bayon Temple Stone Face Winks at Sunrise](examples/128-bayon-temple-stone-face/) | ![128](examples/128-bayon-temple-stone-face/image.png) | 吳哥文化、雙格漫畫 / Angkor culture, two-panel comic |
+| 129 | [廢墟燈塔前的牛仔女子 · Woman in Denim Jacket Before a Ruined Lighthouse](examples/129-woman-in-denim-jacket/) | ![129](examples/129-woman-in-denim-jacket/image.png) | 人像、廢墟、油畫風 / Portrait, ruins, oil-painting style |
+| 130 | [玫瑰園碎花洋裝的艾蜜莉 · Emily in a Floral Sundress in a Rose Garden](examples/130-emily-in-a-floral/) | ![130](examples/130-emily-in-a-floral/image.png) | 人像、花園 / Portrait, garden |
+| 131 | [海岸步道上的艾瑪 · Emma in a Navy Dress on a Coastal Walkway at Sunset](examples/131-emma-in-a-navy/) | ![131](examples/131-emma-in-a-navy/image.png) | 人像、海岸 / Portrait, coast |
+| 132 | [金色時刻牽手的瑪麗亞 · Maria and a Young Woman Holding Hands at Golden Hour](examples/132-maria-and-a-young/) | ![132](examples/132-maria-and-a-young/image.png) | 人像、金色時刻 / Portrait, golden hour |
+| 133 | [雨窗霜花前的女子 · Woman Touching a Frost Flower on a Rainy Window](examples/133-woman-touching-a-frost/) | ![133](examples/133-woman-touching-a-frost/image.png) | 人像、雨窗 / Portrait, rainy window |
+| 134 | [巨型透明口紅女孩 · Girl Holding a Giant Translucent Lipstick Tube](examples/134-girl-holding-a-giant/) | ![134](examples/134-girl-holding-a-giant/image.png) | 超現實、街頭 / Surrealism, street |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
