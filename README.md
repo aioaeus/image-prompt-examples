@@ -147,6 +147,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 132 | [金色時刻牽手的瑪麗亞 · Maria and a Young Woman Holding Hands at Golden Hour](examples/132-maria-and-a-young/) | ![132](examples/132-maria-and-a-young/image.png) | 人像、金色時刻 / Portrait, golden hour |
 | 133 | [雨窗霜花前的女子 · Woman Touching a Frost Flower on a Rainy Window](examples/133-woman-touching-a-frost/) | ![133](examples/133-woman-touching-a-frost/image.png) | 人像、雨窗 / Portrait, rainy window |
 | 134 | [巨型透明口紅女孩 · Girl Holding a Giant Translucent Lipstick Tube](examples/134-girl-holding-a-giant/) | ![134](examples/134-girl-holding-a-giant/image.png) | 超現實、街頭 / Surrealism, street |
+| 135 | [巨型蔬菜湯碗中的黑膠唱片女孩 · Girl Standing in a Giant Vegetable Soup Bowl Holding a Vinyl Record](examples/135-girl-standing-in-a/) | ![135](examples/135-girl-standing-in-a/image.png) | 人像、超現實 / Portrait, surrealism |
+| 136 | [高棉寺廟金色仙女 · Golden Apsara in a Khmer Temple](examples/136-golden-apsara-in-a/) | ![136](examples/136-golden-apsara-in-a/image.png) | 吳哥文化、仙女舞 / Angkor culture, Apsara dance |
+| 137 | [DeLonghi 義式咖啡機海報 · DeLonghi Espresso Machine](examples/137-delonghi-espresso-machine/) | ![137](examples/137-delonghi-espresso-machine/image.png) | 電商海報、咖啡機 / E-commerce poster, espresso machine |
+| 138 | [褪黑素軟糖夢幻花園 · Melatonin Gummies Bloom in a Dreamy Garden](examples/138-melatonin-gummies-bloom-in/) | ![138](examples/138-melatonin-gummies-bloom-in/image.png) | 電商海報、褪黑素軟糖 / E-commerce poster, melatonin gummies |
+| 139 | [EUHOMY 製冰機瀑布海報 · Cascading Chill EUHOMY Ice Maker](examples/139-cascading-chill-euhomy-ice/) | ![139](examples/139-cascading-chill-euhomy-ice/image.png) | 電商海報、製冰機 / E-commerce poster, ice maker |
+| 140 | [Dreo 暖風機溫馨星球海報 · Dreo Heater a Cozy Planet](examples/140-dreo-heater-a-cozy/) | ![140](examples/140-dreo-heater-a-cozy/image.png) | 電商海報、暖風機 / E-commerce poster, space heater |
+| 141 | [Tarte Maracuja 豐盈唇彩海報 · Tarte Maracuja Juicy Lip](examples/141-tarte-maracuja-juicy-lip/) | ![141](examples/141-tarte-maracuja-juicy-lip/image.png) | 電商海報、唇彩 / E-commerce poster, lip gloss |
+| 142 | [復古聖誕樹夜燈海報 · Vintage Christmas Tree Night Light](examples/142-vintage-christmas-tree-night/) | ![142](examples/142-vintage-christmas-tree-night/image.png) | 電商海報、聖誕夜燈 / E-commerce poster, Christmas night light |
+| 143 | [Dyson 淨化器綻放水晶樹冠 · Dyson Purifier Blossoms into a Crystal Canopy](examples/143-dyson-purifier-blossoms-into/) | ![143](examples/143-dyson-purifier-blossoms-into/image.png) | 電商海報、空氣清淨機 / E-commerce poster, air purifier |
+| 144 | [捏捏雲朵解壓玩具海報 · Squeeze the Fun Squishy Cloud Toy Poster](examples/144-squeeze-the-fun-squishy/) | ![144](examples/144-squeeze-the-fun-squishy/image.png) | 廣告海報、解壓玩具 / Advertising poster, squishy toy |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
