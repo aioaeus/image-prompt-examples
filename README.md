@@ -157,6 +157,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 142 | [復古聖誕樹夜燈海報 · Vintage Christmas Tree Night Light](examples/142-vintage-christmas-tree-night/) | ![142](examples/142-vintage-christmas-tree-night/image.png) | 電商海報、聖誕夜燈 / E-commerce poster, Christmas night light |
 | 143 | [Dyson 淨化器綻放水晶樹冠 · Dyson Purifier Blossoms into a Crystal Canopy](examples/143-dyson-purifier-blossoms-into/) | ![143](examples/143-dyson-purifier-blossoms-into/image.png) | 電商海報、空氣清淨機 / E-commerce poster, air purifier |
 | 144 | [捏捏雲朵解壓玩具海報 · Squeeze the Fun Squishy Cloud Toy Poster](examples/144-squeeze-the-fun-squishy/) | ![144](examples/144-squeeze-the-fun-squishy/image.png) | 廣告海報、解壓玩具 / Advertising poster, squishy toy |
+| 145 | [床頭加濕器發光種子莢 · Bedside Humidifier Glowing Seedpods](examples/145-bedside-humidifier-glowing-seedpods/) | ![145](examples/145-bedside-humidifier-glowing-seedpods/image.png) | 居家小家電、發光種子莢 / Home appliance, glowing seedpods |
+| 146 | [開羅單車上的經典木屐鞋 · Classic Clog Shoes on a Bicycle in Cairo](examples/146-classic-clog-shoes-on/) | ![146](examples/146-classic-clog-shoes-on/image.png) | 復古黑白片、鞋履海報 / Vintage noir, footwear poster |
+| 147 | [迷你加濕器：輕鬆呼吸，健康生活 · Mini Humidifier Breathe Easy Live Well](examples/147-mini-humidifier-breathe-easy/) | ![147](examples/147-mini-humidifier-breathe-easy/image.png) | 電商海報、迷你加濕器 / E-commerce poster, mini humidifier |
+| 148 | [車尾箱 LED 燈條：點亮你的車尾箱 · Car Trunk LED Light Strip Light Up Your Trunk](examples/148-car-trunk-led-light/) | ![148](examples/148-car-trunk-led-light/image.png) | 電商海報、車用燈條 / E-commerce poster, car LED strip |
+| 149 | [雙重修護面霜：修護、恢復、煥新 · Double Repair Face Moisturizer Repair Restore Renew](examples/149-double-repair-face-moisturizer/) | ![149](examples/149-double-repair-face-moisturizer/image.png) | 電商海報、面霜 / E-commerce poster, face moisturizer |
+| 150 | [RGBIC 角落落地燈：點亮你的世界 · RGBIC Corner Floor Lamp Light Up Your World](examples/150-rgbic-corner-floor-lamp/) | ![150](examples/150-rgbic-corner-floor-lamp/image.png) | 電商海報、落地燈 / E-commerce poster, floor lamp |
+| 151 | [膠原蛋白面膜：像冠軍一樣發光 · Collagen Face Mask Glow Like a Champion](examples/151-collagen-face-mask-glow/) | ![151](examples/151-collagen-face-mask-glow/image.png) | 電商海報、面膜 / E-commerce poster, face mask |
+| 152 | [緞面枕套套裝：奢華入眠 · Satin Pillowcase Set Sleep in Luxury](examples/152-satin-pillowcase-set-sleep/) | ![152](examples/152-satin-pillowcase-set-sleep/image.png) | 電商海報、寢具 / E-commerce poster, bedding |
+| 153 | [乳木果身體乳：滋養、流動、綻放 · Shea Butter Body Lotion Nourish Flow Bloom](examples/153-shea-butter-body-lotion/) | ![153](examples/153-shea-butter-body-lotion/image.png) | 電商海報、身體乳 / E-commerce poster, body lotion |
+| 154 | [吳哥窟日出蓮花池 · Angkor Wat Sunrise Lotus Pond](examples/154-angkor-wat-sunrise-lotus/) | ![154](examples/154-angkor-wat-sunrise-lotus/image.png) | 吳哥文化、日出水彩 / Angkor culture, sunrise watercolor |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
