@@ -167,6 +167,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 152 | [緞面枕套套裝：奢華入眠 · Satin Pillowcase Set Sleep in Luxury](examples/152-satin-pillowcase-set-sleep/) | ![152](examples/152-satin-pillowcase-set-sleep/image.png) | 電商海報、寢具 / E-commerce poster, bedding |
 | 153 | [乳木果身體乳：滋養、流動、綻放 · Shea Butter Body Lotion Nourish Flow Bloom](examples/153-shea-butter-body-lotion/) | ![153](examples/153-shea-butter-body-lotion/image.png) | 電商海報、身體乳 / E-commerce poster, body lotion |
 | 154 | [吳哥窟日出蓮花池 · Angkor Wat Sunrise Lotus Pond](examples/154-angkor-wat-sunrise-lotus/) | ![154](examples/154-angkor-wat-sunrise-lotus/image.png) | 吳哥文化、日出水彩 / Angkor culture, sunrise watercolor |
+| 155 | [數位相框：美好回憶美麗呈現 · Digital Photo Frame Your Memories Beautifully Displayed](examples/155-digital-photo-frame-your/) | ![155](examples/155-digital-photo-frame-your/image.png) | 數位相框、超現實花園 / Digital photo frame, surreal garden |
+| 156 | [電動足部按摩器：踏入放鬆 · Electric Foot Massager Step Into Relaxation](examples/156-electric-foot-massager-step/) | ![156](examples/156-electric-foot-massager-step/image.png) | 電動足部按摩器、明暗對比 / Electric foot massager, chiaroscuro |
+| 157 | [手持掛燙機：皺褶數秒消失 · Handheld Garment Steamer Wrinkles Disappear in Seconds](examples/157-handheld-garment-steamer-wrinkles/) | ![157](examples/157-handheld-garment-steamer-wrinkles/image.png) | 手持掛燙機、博物館暖光 / Handheld garment steamer, museum warmth |
+| 158 | [香薰蠟燭禮盒：家的溫暖微光 · Scented Candle Gift Set A Glow That Feels Like Home](examples/158-scented-candle-gift-set/) | ![158](examples/158-scented-candle-gift-set/image.png) | 香薰蠟燭禮盒、包浩斯 / Scented candle gift set, Bauhaus |
+| 159 | [羽絨被套組：沉睡於舒適之中 · Duvet Set Sleep Deep in Comfort](examples/159-duvet-set-sleep-deep/) | ![159](examples/159-duvet-set-sleep-deep/image.png) | 羽絨被套組、月夜絲綢 / Duvet set, moonlit silk |
+| 160 | [降噪耳機：靜默即力量 · Noise Cancelling Headphones Silence Is Power](examples/160-noise-cancelling-headphones-silence/) | ![160](examples/160-noise-cancelling-headphones-silence/image.png) | 降噪耳機、工地靜默 / Noise cancelling headphones, construction-site calm |
+| 161 | [便攜地毯清潔機：污漬變繁花 · Portable Carpet Cleaner From Stains to Blooms](examples/161-portable-carpet-cleaner-from/) | ![161](examples/161-portable-carpet-cleaner-from/image.png) | 便攜地毯清潔機、污漬變繁花 / Portable carpet cleaner, stains to blooms |
+| 162 | [蜜桃貓捏捏樂玩具海報新視角 · A Fresh Look at Squishy Peach Cat Toy Poster](examples/162-a-fresh-look-at/) | ![162](examples/162-a-fresh-look-at/image.png) | 捏捏樂玩具、電商海報 / Squishy toy, e-commerce poster |
+| 163 | [隨身視角：充電手機殼海報 · Carry Your Perspective Charging Phone Case Poster](examples/163-carry-your-perspective-charging/) | ![163](examples/163-carry-your-perspective-charging/image.png) | 充電手機殼、電商海報 / Charging phone case, e-commerce poster |
+| 164 | [當窗戶回望 · When the Windows Watched Back](examples/164-when-the-windows-watched/) | ![164](examples/164-when-the-windows-watched/image.png) | 電影感、超現實街景 / Cinematic, surreal street |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
