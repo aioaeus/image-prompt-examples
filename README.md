@@ -177,6 +177,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 162 | [蜜桃貓捏捏樂玩具海報新視角 · A Fresh Look at Squishy Peach Cat Toy Poster](examples/162-a-fresh-look-at/) | ![162](examples/162-a-fresh-look-at/image.png) | 捏捏樂玩具、電商海報 / Squishy toy, e-commerce poster |
 | 163 | [隨身視角：充電手機殼海報 · Carry Your Perspective Charging Phone Case Poster](examples/163-carry-your-perspective-charging/) | ![163](examples/163-carry-your-perspective-charging/image.png) | 充電手機殼、電商海報 / Charging phone case, e-commerce poster |
 | 164 | [當窗戶回望 · When the Windows Watched Back](examples/164-when-the-windows-watched/) | ![164](examples/164-when-the-windows-watched/image.png) | 電影感、超現實街景 / Cinematic, surreal street |
+| 165 | [騎士與蝸牛的泥金彩飾 · Knight vs Snail Marginalia](examples/165-knight-vs-snail-marginalia/) | ![165](examples/165-knight-vs-snail-marginalia/image.png) | 中世紀泥金彩飾、騎士與蝸牛 / Medieval marginalia, knight and snail |
+| 166 | [中世紀動物誌：獅鷲手稿頁 · Medieval Bestiary Creature Page](examples/166-medieval-bestiary-creature-page/) | ![166](examples/166-medieval-bestiary-creature-page/image.png) | 泥金手稿、獅鷲火焰 / Illuminated manuscript, griffin flame |
+| 167 | [伊莉莎白一世泥金手稿肖像 · Queen Elizabeth I Illuminated Manuscript Portrait](examples/167-queen-elizabeth-i-illuminated/) | ![167](examples/167-queen-elizabeth-i-illuminated/image.png) | 泥金手稿肖像、都鐸王朝 / Illuminated portrait, Tudor era |
+| 168 | [艾蓮娜手持復古郵票海報 · Elena Holding a Vintage Postage Stamp Poster](examples/168-elena-holding-a-vintage/) | ![168](examples/168-elena-holding-a-vintage/image.png) | 復古郵票海報、鏡像雙重身 / Vintage stamp poster, mirrored double |
+| 169 | [微縮世界：真實之地的迷你橋 · Miniature World From a Real Place](examples/169-miniature-world-from-a/) | ![169](examples/169-miniature-world-from-a/image.png) | 微縮模型、歐洲石橋 / Miniature model, European stone bridge |
+| 170 | [聖誕帽艾蓮娜與發光花園 · Elena in a Santa Hat in a Luminous Garden](examples/170-elena-in-a-santa/) | ![170](examples/170-elena-in-a-santa/image.png) | 聖誕花園、發光藤蔓 / Christmas garden, glowing vines |
+| 171 | [黑色塑身衣：展開你的自信 · Black Shapewear Bodysuit Unfold Your Confidence](examples/171-black-shapewear-bodysuit-unfold/) | ![171](examples/171-black-shapewear-bodysuit-unfold/image.png) | 塑身衣、電商海報 / Shapewear, e-commerce poster |
+| 172 | [LED 瀑布燈管：點亮你的世界 · LED Cascade Light Tubes Light Up Your World](examples/172-led-cascade-light-tubes/) | ![172](examples/172-led-cascade-light-tubes/image.png) | LED 燈管、教堂彩色玻璃 / LED light tubes, chapel stained glass |
+| 173 | [兒童毛衣：給小寶貝的溫暖 · Kids Sweater Warmth for Little Ones](examples/173-kids-sweater-warmth-for/) | ![173](examples/173-kids-sweater-warmth-for/image.png) | 兒童毛衣、電商海報 / Kids sweater, e-commerce poster |
+| 174 | [魚鱗去除器：輕鬆去鱗，潔淨無暇 · Fish Scale Remover Effortless Scaling Perfectly Clean](examples/174-fish-scale-remover-effortless/) | ![174](examples/174-fish-scale-remover-effortless/image.png) | 魚鱗去除器、巨型錦鯉 / Fish scale remover, giant koi |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
