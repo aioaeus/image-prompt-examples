@@ -187,6 +187,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 172 | [LED 瀑布燈管：點亮你的世界 · LED Cascade Light Tubes Light Up Your World](examples/172-led-cascade-light-tubes/) | ![172](examples/172-led-cascade-light-tubes/image.png) | LED 燈管、教堂彩色玻璃 / LED light tubes, chapel stained glass |
 | 173 | [兒童毛衣：給小寶貝的溫暖 · Kids Sweater Warmth for Little Ones](examples/173-kids-sweater-warmth-for/) | ![173](examples/173-kids-sweater-warmth-for/image.png) | 兒童毛衣、電商海報 / Kids sweater, e-commerce poster |
 | 174 | [魚鱗去除器：輕鬆去鱗，潔淨無暇 · Fish Scale Remover Effortless Scaling Perfectly Clean](examples/174-fish-scale-remover-effortless/) | ![174](examples/174-fish-scale-remover-effortless/image.png) | 魚鱗去除器、巨型錦鯉 / Fish scale remover, giant koi |
+| 175 | [沙漠公路旁的 1980 年代旅行車與米婭 · Mia by a 1980s Station Wagon on a Desert Road Trip](examples/175-mia-by-a-1980s/) | ![175](examples/175-mia-by-a-1980s/image.png) | 復古公路旅行、1980 年代寶麗來 / Retro road trip, 1980s Polaroid |
+| 176 | [液態金屬禮服中的莉娜 · Lena in a Liquid Metal Gown](examples/176-lena-in-a-liquid/) | ![176](examples/176-lena-in-a-liquid/image.png) | 液態金屬、未來高級時尚 / Liquid metal, futuristic high fashion |
+| 177 | [陽光廚房裡的里奧與蠟筆恐龍 · Leo and the Crayon Dinosaur in a Sunlit Kitchen](examples/177-leo-and-the-crayon/) | ![177](examples/177-leo-and-the-crayon/image.png) | 童畫成真、蠟筆恐龍 / Kids drawing comes to life, crayon dinosaur |
+| 178 | [1998 年臥室裡的米婭與 CRT 螢幕傳送門 · Mia in a 1998 Bedroom with a CRT Monitor Portal](examples/178-mia-in-a-1998/) | ![178](examples/178-mia-in-a-1998/image.png) | 1990 年代復古網絡、CRT 傳送門 / 1990s retro web, CRT portal |
+| 179 | [小木屋廚房裡與柯基一起烤薑餅的艾瑪 · Emma Baking Gingerbread with a Corgi in a Cabin Kitchen](examples/179-emma-baking-gingerbread-with/) | ![179](examples/179-emma-baking-gingerbread-with/image.png) | 冬日節慶、薑餅與柯基 / Winter festive, gingerbread and corgi |
+| 180 | [復古電腦螢幕前的白衣女子 · Woman in a White Gown Before a Retro Computer Screen](examples/180-woman-in-a-white/) | ![180](examples/180-woman-in-a-white/image.png) | 復古網絡、白色禮服 / Retro web, white gown |
+| 181 | [宏偉大廳裡的炭灰燕尾禮服女子 · Woman in a Charcoal Tuxedo Ballgown in a Grand Hall](examples/181-woman-in-a-charcoal/) | ![181](examples/181-woman-in-a-charcoal/image.png) | 電影感時尚、炭灰燕尾禮服 / Cinematic fashion, charcoal tuxedo ballgown |
+| 182 | [壁爐旁正式大廳裡的安娜 · Anna in a Formal Hall by the Fireplace](examples/182-anna-in-a-formal/) | ![182](examples/182-anna-in-a-formal/image.png) | 冬日奇幻、壁爐森林 / Winter fantasy, fireplace forest |
+| 183 | [熱帶花園裡拿著彩虹畫的男孩 · Boy with Rainbow Drawing in a Tropical Garden](examples/183-boy-with-rainbow-drawing/) | ![183](examples/183-boy-with-rainbow-drawing/image.png) | 童畫成真、彩虹花園 / Kids drawing comes to life, rainbow garden |
+| 184 | [燭光抄寫室裡的修道士抄寫員 · Monk Scribe Scriptorium Candlelight](examples/184-monk-scribe-scriptorium-candlelight/) | ![184](examples/184-monk-scribe-scriptorium-candlelight/image.png) | 中世紀抄寫室、燭光終端 / Medieval scriptorium, candlelit terminal |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
