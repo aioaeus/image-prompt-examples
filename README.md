@@ -197,6 +197,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 182 | [壁爐旁正式大廳裡的安娜 · Anna in a Formal Hall by the Fireplace](examples/182-anna-in-a-formal/) | ![182](examples/182-anna-in-a-formal/image.png) | 冬日奇幻、壁爐森林 / Winter fantasy, fireplace forest |
 | 183 | [熱帶花園裡拿著彩虹畫的男孩 · Boy with Rainbow Drawing in a Tropical Garden](examples/183-boy-with-rainbow-drawing/) | ![183](examples/183-boy-with-rainbow-drawing/image.png) | 童畫成真、彩虹花園 / Kids drawing comes to life, rainbow garden |
 | 184 | [燭光抄寫室裡的修道士抄寫員 · Monk Scribe Scriptorium Candlelight](examples/184-monk-scribe-scriptorium-candlelight/) | ![184](examples/184-monk-scribe-scriptorium-candlelight/image.png) | 中世紀抄寫室、燭光終端 / Medieval scriptorium, candlelit terminal |
+| 185 | [熱帶雨林浴簾變身河 · Shower Curtain Liner Transform Your Shower](examples/185-shower-curtain-liner-transform/) | ![185](examples/185-shower-curtain-liner-transform/image.png) | 熱帶雨林、浴簾變河 / Tropical rainforest, curtain-to-river |
+| 186 | [末日廢墟中的黃金淨水器 · Refrigerator Water Filter Pure Water Pure Life](examples/186-refrigerator-water-filter-pure/) | ![186](examples/186-refrigerator-water-filter-pure/image.png) | 末日廢墟、黃金淨水 / Post-apocalyptic ruins, golden water filter |
+| 187 | [玫瑰唇部護理禮盒 · Lip Care Gift Set Glow From Within](examples/187-lip-care-gift-set/) | ![187](examples/187-lip-care-gift-set/image.png) | 奢華浴室、玫瑰唇膏瀑布 / Luxury bathroom, rose lip balm waterfall |
+| 188 | [綠葉穹頂空氣淨化器 · Air Purifier Breathe Pure Live Pure](examples/188-air-purifier-breathe-pure/) | ![188](examples/188-air-purifier-breathe-pure/image.png) | 閣樓綠葉穹頂、親生物設計 / Loft leaf canopy, biophilic design |
+| 189 | [黑曜戒指與彩虹稜鏡 · Ring Unleash Brilliance](examples/189-ring-unleash-brilliance/) | ![189](examples/189-ring-unleash-brilliance/image.png) | 黑曜戒指、彩虹稜鏡 / Blackened ring, rainbow prism |
+| 190 | [眼下遮瑕提亮光采 · Under Eye Color Corrector Brighten Every Glance](examples/190-under-eye-color-corrector/) | ![190](examples/190-under-eye-color-corrector/image.png) | 舞台燈光、眼下提亮 / Stage footlights, under-eye glow |
+| 191 | [自然生長：紫髮女子與緬因貓 · Grow Naturally Inside and Out](examples/191-grow-naturally-inside-and/) | ![191](examples/191-grow-naturally-inside-and/image.png) | 茶室藤蔓、紫髮女子與貓 / Tea parlor vines, violet hair & cat |
+| 192 | [黎明市集洗潔精噴霧 · Dish Soap Spray Unleash the Power of Clean](examples/192-dish-soap-spray-unleash/) | ![192](examples/192-dish-soap-spray-unleash/image.png) | 黎明市集、肥皂泡螢火 / Dawn market, soap-bubble fireflies |
+| 193 | [鄂圖曼宮殿燕麥沐浴露 · Tezhip Oat Body Wash A Journey Through Time and Taste](examples/193-tezhip-oat-body-wash/) | ![193](examples/193-tezhip-oat-body-wash/image.png) | 鄂圖曼宮殿、燕麥奶河 / Ottoman palace, oat milk river |
+| 194 | [肯特織錦耳機 · Headphones Feel the Fabric of Sound](examples/194-headphones-feel-the-fabric/) | ![194](examples/194-headphones-feel-the-fabric/image.png) | 肯特織錦、耳機聲波 / Kente ribbons, headphone soundwaves |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
