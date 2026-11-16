@@ -207,6 +207,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 192 | [黎明市集洗潔精噴霧 · Dish Soap Spray Unleash the Power of Clean](examples/192-dish-soap-spray-unleash/) | ![192](examples/192-dish-soap-spray-unleash/image.png) | 黎明市集、肥皂泡螢火 / Dawn market, soap-bubble fireflies |
 | 193 | [鄂圖曼宮殿燕麥沐浴露 · Tezhip Oat Body Wash A Journey Through Time and Taste](examples/193-tezhip-oat-body-wash/) | ![193](examples/193-tezhip-oat-body-wash/image.png) | 鄂圖曼宮殿、燕麥奶河 / Ottoman palace, oat milk river |
 | 194 | [肯特織錦耳機 · Headphones Feel the Fabric of Sound](examples/194-headphones-feel-the-fabric/) | ![194](examples/194-headphones-feel-the-fabric/image.png) | 肯特織錦、耳機聲波 / Kente ribbons, headphone soundwaves |
+| 195 | [未來感無線電動掃把 · Sweep into the Future](examples/195-sweep-into-the-future/) | ![195](examples/195-sweep-into-the-future/image.png) | 未來藍、無線掃把 / Futuristic blue, cordless broom |
+| 196 | [精準修容：充電鼻毛修剪器 · Precision Grooming](examples/196-precision-grooming/) | ![196](examples/196-precision-grooming/image.png) | 未來藍、金屬修容 / Futuristic blue, metallic trimmer |
+| 197 | [孕期按摩油：呵護母嬰 · Nurture Your Glow](examples/197-nurture-your-glow/) | ![197](examples/197-nurture-your-glow/image.png) | 暖米色、孕期按摩油 / Warm beige, pregnancy massage oil |
+| 198 | [黃金蜂蜜禮盒 · Golden Honey Gift](examples/198-golden-honey-gift/) | ![198](examples/198-golden-honey-gift/image.png) | 蜂蜜金、木禮盒 / Honey gold, wooden gift box |
+| 199 | [睫毛沙漏：睫毛膏 · Lash Hourglass](examples/199-lash-hourglass/) | ![199](examples/199-lash-hourglass/image.png) | 天空藍、睫毛沙漏 / Sky blue, lash hourglass |
+| 200 | [舒適針織連帽衫 · Cozy Knit Comfort](examples/200-cozy-knit-comfort/) | ![200](examples/200-cozy-knit-comfort/image.png) | 奶油針織、鄉村織布機 / Cream knit, rustic loom |
+| 201 | [金色喚醒：黃銅鬧鐘 · Awaken to Gold](examples/201-awaken-to-gold/) | ![201](examples/201-awaken-to-gold/image.png) | 黃銅、倫敦日出 / Brass, London sunrise |
+| 202 | [迷你壽司師傅便當盒 · Miniature Sushi Chef Bento Box](examples/202-miniature-sushi-chef-bento/) | ![202](examples/202-miniature-sushi-chef-bento/image.png) | 迷你壽司、發光米粒 / Miniature sushi, glowing rice grain |
+| 203 | [碎片之戰：彩繪玻璃騎士 · The Clash of Shards](examples/203-the-clash-of-shards/) | ![203](examples/203-the-clash-of-shards/image.png) | 彩繪玻璃、雙騎士 / Stained glass, twin knights |
+| 204 | [幻彩貝殼束腰 · Iridescent Shell Waist Trainer Define Your Power](examples/204-iridescent-shell-waist-trainer/) | ![204](examples/204-iridescent-shell-waist-trainer/image.png) | 幻彩貝殼、武術姿態 / Iridescent shell, martial arts pose |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
