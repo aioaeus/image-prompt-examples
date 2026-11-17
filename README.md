@@ -217,6 +217,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 202 | [迷你壽司師傅便當盒 · Miniature Sushi Chef Bento Box](examples/202-miniature-sushi-chef-bento/) | ![202](examples/202-miniature-sushi-chef-bento/image.png) | 迷你壽司、發光米粒 / Miniature sushi, glowing rice grain |
 | 203 | [碎片之戰：彩繪玻璃騎士 · The Clash of Shards](examples/203-the-clash-of-shards/) | ![203](examples/203-the-clash-of-shards/image.png) | 彩繪玻璃、雙騎士 / Stained glass, twin knights |
 | 204 | [幻彩貝殼束腰 · Iridescent Shell Waist Trainer Define Your Power](examples/204-iridescent-shell-waist-trainer/) | ![204](examples/204-iridescent-shell-waist-trainer/image.png) | 幻彩貝殼、武術姿態 / Iridescent shell, martial arts pose |
+| 205 | [澆灌鈔票灌木 · Watering Money Bush](examples/205-watering-money-bush/) | ![205](examples/205-watering-money-bush/image.png) | 鈔票灌木、老人澆水 / Money-leaf bush, elderly gardener |
+| 206 | [遛鈔票狗 · Money Dog Walk](examples/206-money-dog-walk/) | ![206](examples/206-money-dog-walk/image.png) | 鈔票狗、金幣噴泉 / Bill-dog, coin fountain |
+| 207 | [銀裙捧月少女 · Silver Gown Moon Maiden](examples/207-silver-gown-moon-maiden/) | ![207](examples/207-silver-gown-moon-maiden/image.png) | 銀裙、捧月少女 / Silver gown, moon maiden |
+| 208 | [去漬噴霧：污漬短暫，風格永恆 · Stain Treater Spray Stains Are Temporary Style Is Forever](examples/208-stain-treater-spray-stains/) | ![208](examples/208-stain-treater-spray-stains/image.png) | 哥德彩繪玻璃、去漬噴霧 / Gothic stained glass, stain spray |
+| 209 | [超細纖維床單組：深睡舒適 · Microfiber Sheet Set Sleep Deep in Comfort](examples/209-microfiber-sheet-set-sleep/) | ![209](examples/209-microfiber-sheet-set-sleep/image.png) | 香港天台、漂浮床單 / Hong Kong rooftop, floating sheets |
+| 210 | [無線便攜捲髮棒：她的頭髮會說故事 · Cordless Portable Hair Curler She Knew Her Hair Told the Story](examples/210-cordless-portable-hair-curler/) | ![210](examples/210-cordless-portable-hair-curler/image.png) | 熱帶花園、粉紅捲髮棒 / Tropical garden, pink curler |
+| 211 | [比利時鬆餅機：讓早晨嚐起來像魔法 · Belgian Waffle Maker Make Mornings Taste Like Magic](examples/211-belgian-waffle-maker-make/) | ![211](examples/211-belgian-waffle-maker-make/image.png) | 七〇年代廚房、鬆餅機 / 1970s kitchen, waffle maker |
+| 212 | [無線直立吸塵器：優雅清潔 · Cordless Stick Vacuum Clean with Grace](examples/212-cordless-stick-vacuum-clean/) | ![212](examples/212-cordless-stick-vacuum-clean/image.png) | 新藝術風、花卉吸塵器 / Art Nouveau, floral vacuum |
+| 213 | [洗衣凝珠：清新潔淨，亮色如新 · Detergent Pack Fresh Clean Bright Colors Every Time](examples/213-detergent-pack-fresh-clean/) | ![213](examples/213-detergent-pack-fresh-clean/image.png) | 孟買市集、洗衣凝珠 / Mumbai market, detergent pack |
+| 214 | [AAA 鹼性電池：能量釋放 · AAA Alkaline Batteries Power Unleashed](examples/214-aaa-alkaline-batteries-power/) | ![214](examples/214-aaa-alkaline-batteries-power/image.png) | 橘貓、發光電池線 / Orange tabby, glowing battery thread |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
