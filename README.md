@@ -227,6 +227,16 @@ All cases come from the [AIOAE free AI image prompt library](https://aioae.us/pr
 | 212 | [無線直立吸塵器：優雅清潔 · Cordless Stick Vacuum Clean with Grace](examples/212-cordless-stick-vacuum-clean/) | ![212](examples/212-cordless-stick-vacuum-clean/image.png) | 新藝術風、花卉吸塵器 / Art Nouveau, floral vacuum |
 | 213 | [洗衣凝珠：清新潔淨，亮色如新 · Detergent Pack Fresh Clean Bright Colors Every Time](examples/213-detergent-pack-fresh-clean/) | ![213](examples/213-detergent-pack-fresh-clean/image.png) | 孟買市集、洗衣凝珠 / Mumbai market, detergent pack |
 | 214 | [AAA 鹼性電池：能量釋放 · AAA Alkaline Batteries Power Unleashed](examples/214-aaa-alkaline-batteries-power/) | ![214](examples/214-aaa-alkaline-batteries-power/image.png) | 橘貓、發光電池線 / Orange tabby, glowing battery thread |
+| 215 | [繫上一點魔法：蕾絲蝴蝶結包包掛飾 · Tie a Little Magic](examples/215-tie-a-little-magic/) | ![215](examples/215-tie-a-little-magic/image.png) | 蕾絲小包、粉紅蝴蝶結 / Lace satchel, blush bow |
+| 216 | [乘雲而行：雲朵平衡車 · Ride the Clouds](examples/216-ride-the-clouds/) | ![216](examples/216-ride-the-clouds/image.png) | 雲朵單車、陽光草甸 / Cloud bike, sunny meadow |
+| 217 | [攜帶海洋：透明海洋行李箱 · Carry the Ocean](examples/217-carry-the-ocean/) | ![217](examples/217-carry-the-ocean/image.png) | 透明行李箱、微型海洋 / Glass suitcase, miniature ocean |
+| 218 | [雕塑你的光采：沙丘潔面泡沫 · Sculpt Your Glow](examples/218-sculpt-your-glow/) | ![218](examples/218-sculpt-your-glow/image.png) | 沙漠沙丘、潔面泡沫瓶 / Desert dune, cleanser bottle |
+| 219 | [揭開異味：洗衣凝珠暖爐 · Unravel the Stench](examples/219-unravel-the-stench/) | ![219](examples/219-unravel-the-stench/image.png) | 廢棄洗衣房、發光凝珠 / Abandoned laundromat, glowing pod |
+| 220 | [凝結瞬間：冰塔水瓶 · Freeze the Moment](examples/220-freeze-the-moment/) | ![220](examples/220-freeze-the-moment/image.png) | 冰塔水瓶、蜜桃暮色 / Ice-tower bottle, peach dusk |
+| 221 | [狗狗用骨頭打賞街頭音樂家 · A Dog Rewarding a Street Musician with a Bone](examples/221-a-dog-rewarding-a/) | ![221](examples/221-a-dog-rewarding-a/image.png) | 街頭音樂家、狗狗打賞 / Street musician, dog's tip |
+| 222 | [女人摘下瓷器般的華麗面孔 · A Woman Removes Her Glamorous Face Like a Porcelain Mask](examples/222-a-woman-removes-her/) | ![222](examples/222-a-woman-removes-her/image.png) | 瓷面具、美容院群像 / Porcelain mask, salon crowd |
+| 223 | [卡在列車門裡的褲子 · Trousers Caught in a Train Door](examples/223-trousers-caught-in-a/) | ![223](examples/223-trousers-caught-in-a/image.png) | 列車門、卡住的褲子 / Train door, trapped trousers |
+| 224 | [從噴泉釣起圓頂禮帽 · Fishing His Bowler Hat out of a Fountain](examples/224-fishing-his-bowler-hat/) | ![224](examples/224-fishing-his-bowler-hat/image.png) | 古城噴泉、釣圓頂帽 / Old-town fountain, bowler hat |
 
 
 > 每日新增 10 個新案例（自 2026-10-29 起）。/ 10 new cases added daily since 2026-10-29.
